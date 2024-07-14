@@ -26,6 +26,7 @@ function App() {
             <Route path={"/expenses"} element={<Saleexpense />}></Route>
 
             {/* <Route path={"/login"} element={<Login />}></Route> */}
+            {/*  */}
           </Route >
         </Routes>
       </BrowserRouter>
